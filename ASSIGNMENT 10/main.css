@@ -1,0 +1,103 @@
+/* main.css */
+
+h1 {
+font-size: 75px;
+color: #000000;
+font-family: "Times New Roman", Times, serif;
+font-weight: bold;
+text-align: center;
+letter-spacing: -1px;
+  }
+  
+h2 {
+font-size: 37px;
+color: #000000;
+font-family: "Times New Roman", Times, serif;
+font-weight: bold;
+font-style: italic;
+line-height: 1;
+}
+
+h3 {
+font-size: 18px;
+color: #767171;
+font-family: "Times New Roman", Times, serif; 
+}
+
+p {
+font-size: 15px;
+font-family: "Times New Roman", Times, serif;
+line-height: 1.5;
+}
+
+h4 {
+font-size: 17px;
+font-family:'Times New Roman', Times, serif;
+color: #767171;
+font-style: italic;
+
+
+
+
+
+
+
+}
+/* styles.css */
+
+/* Navbar container */
+.navbar {
+     /* Background color */
+    padding: 5px 0; /* Padding around the navbar */
+}
+
+/* Navbar brand (logo) */
+.navbar-brand {
+    font-family: 'Times New Roman', Times, sans-serif; /* Font family */
+    font-size: 15px; /* Font size */
+    color: #333; /* Text color */
+    font-weight: bold; /* Font weight */
+    text-align: center;
+}
+
+/* Form input */
+.form-control {
+    font-family: 'Times New Roman', Times, serif,; /* Font family */
+    font-size: 13px; /* Font size */
+    color: #333; /* Text color */
+}
+
+/* Search button */
+.btn-outline-success {
+    font-family: 'Times New Roman', Times, serif,; /* Font family */
+    font-size: 16px; /* Font size */
+    color: #fff; /* Text color */
+    background-color: #2876a7; /* Background color */
+    border-color: #2876a7; /* Border color */
+}
+
+/* Search button hover */
+.btn-outline-success:hover {
+    color: #000000; /* Text color on hover */
+    background-color: #d5dae2; /* Background color on hover */
+    border-color: #d5dae2; /* Border color on hover */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
